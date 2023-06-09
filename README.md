@@ -4,6 +4,7 @@
 The game is developed using the Unity application, and the asset design is done using Blender.
 
 This is a final project of Computer Human Interaction Class, Teknik Informatika, Universitas Padjadjaran.
+
 Credit to:
 - Hali Putri Aisyah
 - Fasya Nurina Izzati
