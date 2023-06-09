@@ -9,7 +9,7 @@ Credit to:
 - Fasya Nurina Izzati
 - Alya Raisa Hidayat
 
-##How to play the game:
+#How to play the game:
 1) Download the repository by clicking the green "Code" button and selecting "Download ZIP".
 2) Once the download is complete, open the folder and choose the "NESU BIRD 3D.exe" file to start playing.
 3) 
